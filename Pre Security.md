@@ -26,3 +26,7 @@ we will use the "Gobuster"
 - Penetration Tester - Responsible for testing technology products for finding exploitable security vulnerabilities.
 - Red Teamer - Plays the role of an adversary, attacking an organization and providing feedback from an enemy's perspective.
 - Security Engineer - Design, monitor, and maintain security controls, networks, and systems to help prevent cyberattacks.
+
+# Defensive Security Intro
+## Task 1
+### What is Defensive Security?
